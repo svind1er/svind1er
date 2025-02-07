@@ -7,10 +7,10 @@
 
 ---
 <div align="center">
-<a href="">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MsN4oOlCsO60FIuQWnFBLjD9oFD7OWeXTQ&s">
     <img src="https://streak-stats.demolab.com?user=svind1er&theme=material-palenight&hide_border=true&background=45%2CEB545400%2CEB545400&dates=EB545400&stroke=C844EB36">
 </a>
-<a href="">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MsN4oOlCsO60FIuQWnFBLjD9oFD7OWeXTQ&s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svind1er&size_weight=0.5&count_weight=0.5&layout=compact&theme=material-palenight&hide_border=true&background=EB545400dates=EB545400&"
 </a>
 </div>
