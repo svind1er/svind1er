@@ -8,5 +8,5 @@
 ---
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=svind1er&theme=material-palenight&hide_border=true&background=45%2CEB545400%2CEB545400&dates=EB545400&stroke=C844EB36">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svind1er&size_weight=0.5&count_weight=0.5&layout=compact&theme=material-palenight&hide_border=true&background=EB545400dates=EB545400&">
 </div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svind1er&size_weight=0.5&count_weight=0.5&layout=compact&theme=material-palenight&hide_border=true&background=EB545400dates=EB545400&">
