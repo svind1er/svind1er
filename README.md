@@ -3,7 +3,7 @@
 # 💸 About Me:
 
 **I try to break stuff**  
-**Developer at [HorizonMW](https://github.com/HorizonMW/HorizonMW-Client)** 
+**Lead Developer at [HorizonMW](https://github.com/HorizonMW/HorizonMW-Client)** 
 
 <img src="https://sweezy-cursors.com/wp-content/uploads/cursor/adventure-time-bmo-vhs-mode-animated/adventure-time-bmo-vhs-mode-animated-custom-cursor.gif" width=300>
 <div>
