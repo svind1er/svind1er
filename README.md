@@ -10,3 +10,5 @@
 <a href="https://x.com/svindlerr">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="Twitter">
 </a>
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=svind1er&show=all_time_contribs,prs_merged_percentage&hide_title=true&show_icons=true&include_all_commits=true&theme=material-palenight)
